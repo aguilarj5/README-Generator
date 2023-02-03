@@ -51,7 +51,7 @@
     <a name="contribution"/>
 
     ## Contributing
-    For contribution to this project email me at example@example
+    For contribution to this project I can be emailed at example@example
     
     <a name="authors"/>
 

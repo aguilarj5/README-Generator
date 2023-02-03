@@ -30,6 +30,9 @@ N/A
 <a name="visuals"/>
 
 ## Visuals
+![alt Preview of application](./assets/images/preview1.JPG)
+![alt Preview of application](./assets/images/preview2.JPG)
+![alt Preview of application](./assets/images/preview3.JPG)
 
 <a name="installation"/>
 
@@ -49,6 +52,7 @@ N/A
 <a name="contribution"/>
 
 ## Contributing
+The GitHub Repository can be found on the following this link [here.](https://github.com/aguilarj5/README-Generator.git)
 
 <a name="authors"/>
 

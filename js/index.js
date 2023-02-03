@@ -77,26 +77,55 @@ function handleResponse(response) {
     ${response.description}
 
     ## Table of Contents
+    [Badges](#badges)
+
+    [Visuals](#visuals)
+
+    [Installation](#installation)
+
+    [Usage](#usage)
+
+    [Questions](#questions)
+
+    [Contribution](#contribution)
+
+    [Authors](#authors)
+
+    [License](#license)  
+
+    <a name="badges"/>
 
     ## Badges 
     ![${response.license} Badge](${genLicense.renderLicenseBadge(response.license)})
     
+    <a name="installation"/>
+
     ## Installation
     ${response.install}
 
+    <a name="usage"/>
+
     ## Usage
     ${response.usage}
+
+    <a name="questions"/>
 
     ## Questions
     GitHub Username: ${response.gitUser} [Click here to go to GitHub Page](https://github.com/${response.gitUser})
     If you have any questions I can be reached at ${response.email}.
     
+    <a name="license"/>
+
     ## License
     ${genLicense.renderLicenseSection(response.license)}
     
+    <a name="contribution"/>
+
     ## Contributing
     ${response.contribution}
     
+    <a name="authors"/>
+
     ## Authors and acknowledgment
     ${response.gitUser}
     Badge creation link: https://shields.io/category/license

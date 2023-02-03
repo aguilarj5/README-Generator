@@ -1,32 +1,61 @@
 
-    #  aa 2/2/2023
-    ## aa
+    #  README Generator 2/2/2023
+    ## README Generator
     
     ## Description
-    a
+    Application to produce a quality README file for projects faster.
 
     ## Table of Contents
+    [Badges](#badges)
+
+    [Visuals](#visuals)
+
+    [Installation](#installation)
+
+    [Usage](#usage)
+
+    [Questions](#questions)
+
+    [Contribution](#contribution)
+
+    [Authors](#authors)
+
+    [License](#license)  
+
+    <a name="badges"/>
 
     ## Badges 
-    ![GNU Badge]([![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0))
+    ![MIT Badge](https://img.shields.io/aur/license/c)
     
+    <a name="installation"/>
+
     ## Installation
-    a
+    Visual Studio Code, node, inquirer, package.json needed to run application.
+
+    <a name="usage"/>
 
     ## Usage
-    a
+    User will answer prompts to generate a quality README.
+
+    <a name="questions"/>
 
     ## Questions
-    GitHub Username: a [Click here to go to GitHub Page](https://github.com/a)
-    If you have any questions I can be reached at a.
+    GitHub Username: aguilarj5 [Click here to go to GitHub Page](https://github.com/aguilarj5)
+    If you have any questions I can be reached at example@example.
     
+    <a name="license"/>
+
     ## License
-    Project protected under GNU License
+    Project protected under MIT License
     
+    <a name="contribution"/>
+
     ## Contributing
-    a
+    For contribution to this project email me at example@example
     
+    <a name="authors"/>
+
     ## Authors and acknowledgment
-    a
+    aguilarj5
     Badge creation link: https://shields.io/category/license
     

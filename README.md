@@ -6,14 +6,21 @@
 This project is a README Generator that generates a quality README.md file for any project using prompts and inputs from the user/developer.
 
 ## Table of Contents
-[Badges](#badges)/n 
-[Visuals](#visuals)/n
-[Installation](#installation)/n
-[Usage](#usage)/n
-[Support](#support)/n
-[Contribution](#contribution)/n
-[Authors](#authors)/n
-[License](#license)/n  
+[Badges](#badges)
+
+[Visuals](#visuals)
+
+[Installation](#installation)
+
+[Usage](#usage)
+
+[Support](#support)
+
+[Contribution](#contribution)
+
+[Authors](#authors)
+
+[License](#license)  
 
 <a name="badges"/>
 

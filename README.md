@@ -57,9 +57,11 @@ The GitHub Repository can be found on the following this link [here.](https://gi
 <a name="authors"/>
 
 ## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+GitHub: aguilarj5
+Badge creation link: https://shields.io/category/license
+
 
 <a name="license"/>
 
 ## License
-For open source projects, say how it is licensed.
+N/A

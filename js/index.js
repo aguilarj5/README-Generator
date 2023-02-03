@@ -69,8 +69,6 @@ init();
 function handleResponse(response) {
   const genLicense = require('./generateMarkdown.js');
 
-  genLicense.generateMarkdown(response.license);
-    
   let readME = `
     #  ${response.title} 2/2/2023
     ## ${response.title}
@@ -81,8 +79,7 @@ function handleResponse(response) {
     ## Table of Contents
 
     ## Badges 
-    
-    ## Visuals
+    ![${response.license} Badge](${genLicense.renderLicenseBadge(response.license)})
     
     ## Installation
     ${response.install}
@@ -95,16 +92,14 @@ function handleResponse(response) {
     If you have any questions I can be reached at ${response.email}.
     
     ## License
-    ${response.license}
+    ${genLicense.renderLicenseSection(response.license)}
     
     ## Contributing
     ${response.contribution}
     
     ## Authors and acknowledgment
     ${response.gitUser}
-    
-    ## Project status
-    If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+    Badge creation link: https://shields.io/category/license
     `
   ;
       
